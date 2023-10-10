@@ -1,9 +1,9 @@
-
+import Banner from "./Banner";
 
 function App() {
   return (
-    <h1>Coucou 🤣</h1>
-  );
+    <Banner />
+  )
 }
 
 export default App;
